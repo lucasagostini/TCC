@@ -1,0 +1,8 @@
+\select@language {brazilian}
+\select@language {brazilian}
+\select@language {brazilian}
+\contentsline {chapter}{\numberline {1}Introdu\c c\~ao}{11}
+\contentsline {section}{\numberline {1.1}Figuras e tabelas}{11}
+\contentsline {subsection}{\numberline {1.1.1}Classifica\c c\~ao dos etc.}{12}
+\contentsline {section}{\numberline {1.2}Sobre as refer\^encias bibliogr\'aficas}{12}
+\contentsline {chapter}{Refer{\^e}ncias}{13}

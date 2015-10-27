@@ -1,0 +1,19 @@
+\begin{thebibliography}{\hspace{\parindent}}
+
+\bibitem[PILLA(2004)PILLA]{PIL04phdeng} PILLA, M.~L\@. \textbf{{RST}}: reuse
+  through speculation on traces. 2004. Ph.D. Thesis --- Instituto de
+  Inform{\'a}tica, Universidade Federal do Rio Grande do Sul.
+
+\bibitem[PILLA et~al.(2004)PILLA; NAVAUX; CHILDERS; COSTA;
+  FRAN{\c{C}}A]{PIL04sbac} PILLA, M.~L.; NAVAUX, P. O.~A.; CHILDERS, B.~R.;
+  COSTA, A.~T.~da; FRAN{\c{C}}A, F. M.~G\@. Value Predictors for Reuse through
+  Speculation on Traces. In: SYMPOSIUM ON COMPUTER ARCHITECTURE AND
+  HIGH-PERFORMANCE COMPUTING, 16., 2004, Foz do Igua{\c{c}}u.
+  \textbf{Proceedings{\ldots}} Porto Alegre: SBC, 2004.
+
+\bibitem[PILLA et~al.(2001)PILLA; NAVAUX; COSTA; FRAN{\c{C}}A]{PIL01wip} PILLA,
+  M.~L.; NAVAUX, P. O.~A.; COSTA, A.~T.~da; FRAN{\c{C}}A, F. M.~G\@. Predicting
+  Trace Inputs with Dynamic Trace Memoization: determining speedup upper
+  bounds. \textbf{{IEEE} {TCCA} Newsletter}, [S.l.], Oct.~2001.
+
+\end{thebibliography}

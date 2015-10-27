@@ -1,0 +1,55 @@
+%
+% ufpeldefs.sty - pacote com definicoes da UFPEL
+%
+%
+% Copyright (C) 2008 Maurício Lima Pilla (pilla@ufpel.edu.br)
+% Copyright (C) 2001,2003 UFRGS TeX Users Group
+%
+% UFRGS TeX Users Group
+% Institute of Informatics --- UFRGS
+% Porto Alegre, Brazil
+% http://gppd.inf.ufrgs.br/~avila/utug
+% Discussion list: utug-l@inf.ufrgs.br
+%
+% This is free software, distributed under the GNU GPL; please take
+% a look in `cicufpel.cls' to see complete information on using, copying
+% and redistributing these files
+%
+% Baseado em cicdefs.sty
+% $Id: ufpeldefs.sty,v 1.1 2008/12/10 01:06:02 pilla Exp $
+%
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{ufpeldefs}
+\RequirePackage{graphicx}
+
+%
+% definicoes de nomes
+%
+\def\ufpel{Universidade Federal de Pelotas}
+\def\ifm{Instituto de F{\'i}sica e Matem{\'a}tica}
+\def\dinfo{Departamento de Inform{\'a}tica}
+\def\ppgc{Programa de P{\'o}s-Gradua{\c{c}}{\~a}o em Computa{\c{c}}{\~a}o}
+\def\cgcc{Curso de Bacharelado em Ci{\^e}ncia da Computa{\c{c}}{\~a}o}
+\def\cbcc{Curso de Bacharelado em Ci{\^e}ncia da Computa{\c{c}}{\~a}o}
+\def\cgec{Curso de Gradua{\c{c}}{\~a}o em Engenharia de Computa{\c{c}}{\~a}o}
+
+%
+% produz o logotipo do Instituto; o parametro opcional e' um
+% fator de escala
+%
+% ex.:
+%       \iilogo         % tamanho normal (fonte equiv. a 10pt)
+%       \iilogo[2]      % com o dobro do tamanho
+%       \iilogo[.5]     % com metade do tamanho
+%
+\DeclareRobustCommand{\iilogo}[1][1]{
+        %\includegraphics[scale=#1]{iilogo.eps}
+}
+
+%
+% produz uma versao alternativa do logotipo do Instituto; possui
+% o mesmo parametro opcional para escala
+%
+\DeclareRobustCommand{\variilogo}[1][1]{
+        %\includegraphics[scale=#1]{variilogo.eps}
+}
